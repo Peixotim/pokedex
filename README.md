@@ -17,5 +17,7 @@ Este projeto foi desenvolvido usando uma API gratuita desponivel na web onde se 
 - `HTML`
 - `CSS`
 
-![SuperMarioBros] https://github.com/user-attachments/assets/6cd4bc73-ad19-4533-aa25-19ecb8a45fd7
+![Pokedex!](https://github.com/user-attachments/assets/aa007184-e4c6-42b4-b91d-034fdd646df2)
+
+
 
