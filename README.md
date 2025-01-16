@@ -17,4 +17,5 @@ Este projeto foi desenvolvido usando uma API gratuita desponivel na web onde se 
 - `HTML`
 - `CSS`
 
-![videoMP4 - gif](https://imgur.com/a/6FH70My)
+
+![Pokedex!](https://github.com/user-attachments/assets/6e416397-8008-4968-8abf-91b0cf9fb2e1)
