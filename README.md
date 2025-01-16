@@ -16,3 +16,5 @@ Este projeto foi desenvolvido usando uma API gratuita desponivel na web onde se 
 - `Javascript`
 - `HTML`
 - `CSS`
+
+![videoMP4 - gif](https://imgur.com/a/6FH70My)
